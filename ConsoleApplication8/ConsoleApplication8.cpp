@@ -2,10 +2,17 @@
 //
 
 #include "stdafx.h"
-
-
+#include <iostream> //02_cpp.cpp 
+using namespace std;
+void asmuo()
+{
+	cout <<"Vytautas Barzdaitis"<< endl;
+	cout <<"\n         VDU "<< endl;
+}
 int main()
 {
-    return 0;
-}
+	cout <<"Funkcijos adresas "<< &asmuo << endl;
 
+	system("pause");
+	return 0;
+}
