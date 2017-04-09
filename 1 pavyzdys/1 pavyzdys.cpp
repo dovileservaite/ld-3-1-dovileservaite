@@ -9,7 +9,7 @@ int main()
 	cout <<"kintamojo a reiksme "<< a << endl;
 	cout <<"kintamojo a adresas "<< &a << endl;
 
-	system("pause");
+	system("pause"); //kkh
 	return 0;
 }
 
