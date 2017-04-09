@@ -18,6 +18,6 @@ int main()
 		cout << *(masyvas[m]) << endl;
 
 	system("pause");
-	return 0;
+	return 0; 
 }
 

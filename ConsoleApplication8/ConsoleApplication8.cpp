@@ -7,7 +7,7 @@ using namespace std;
 void asmuo()
 {
 	cout <<"Vytautas Barzdaitis"<< endl;
-	cout <<"\n         VDU "<< endl;
+	cout <<"\n         VDU  "<< endl;
 }
 int main()
 {

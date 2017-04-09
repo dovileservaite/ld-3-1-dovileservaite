@@ -8,7 +8,7 @@ using namespace	std;
 int main()
 {
 	int	i;
-	int	sk[] = { 10, 20, 30, 40, 50 };// !!! 
+	int	sk[] = { 10, 20, 30, 40, 50 };// !!!  
 	int	*p;
 	p = sk;
 	for (i = 0; i < 5; i++)

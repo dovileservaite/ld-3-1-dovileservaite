@@ -61,7 +61,7 @@ sarasas* formuok(istream& ivestis) {
 	}
 	return pradzia;
 }
-//end formuok 
+//end formuok
 
 void naikink(sarasas* kazkas) {
 	sarasas* laikinas;

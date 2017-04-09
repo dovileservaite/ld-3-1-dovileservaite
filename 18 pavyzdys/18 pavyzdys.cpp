@@ -36,7 +36,7 @@ int main()
 		cin >> studentas[i].vidurkis;
 		cout << endl;
 	}
-	// reiksmiu spausdinimas 
+	// reiksmiu spausdinimas  
 	cout << endl << endl << "Masyvo reikğm÷s " << endl << endl;
 	for (i = 0; i < n; i++)
 	{

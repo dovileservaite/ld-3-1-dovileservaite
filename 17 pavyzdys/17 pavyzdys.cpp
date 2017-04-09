@@ -30,7 +30,7 @@ int main()
 	cin >> vartotojas1.vidurkis;
 
 	vartotojas2 = vartotojas1;
-	// reiksmiu spausdinimas 
+	// reiksmiu spausdinimas  
 
 	cout << endl << endl << "VARTOTOJAS2 reiksmes" << endl << endl;
 	cout << vartotojas2.eil_nr << endl;

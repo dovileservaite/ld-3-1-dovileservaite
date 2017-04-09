@@ -19,6 +19,6 @@ int main()
 void spausdink(char *rodykle)
 {
 	while (*rodykle)
-		cout << *rodykle++; // spausdiname po vienà raidæ 
+		cout << *rodykle++; // spausdiname po vienà raidæ  
 							 // nereikejo suþinoti masyvo ilgio !!! 
 }

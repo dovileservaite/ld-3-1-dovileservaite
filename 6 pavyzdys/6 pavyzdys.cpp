@@ -20,4 +20,4 @@ int main()
 	// jokiu bûdu ne p* 
 	system("pause");
 	return 0;
-}
+} 

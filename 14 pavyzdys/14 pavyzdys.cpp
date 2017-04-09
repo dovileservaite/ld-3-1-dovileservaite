@@ -13,7 +13,7 @@ int main()
 	for (i = 0; i < 7; i++)
 		cout << savaites_diena[i] << endl;
 
-	system("pause");
+	system("pause"); 
 	return 0;
 }
 
