@@ -13,7 +13,7 @@ int main()
 	rodykle = &kintamasis;   // rodykle atsimena kintamojo adresà 
 							   // rodykl÷ rodo á kintamojo adresà 
 	cout << "Kintamojo reikðm÷ " << *rodykle << endl;
-	// spausdiname rodykl÷s rodomo kintamojo adreso saugoma reikðm÷   
+	// spausdiname rodykl÷s rodomo kintamojo adreso saugoma reikðme  
 	// Ásid÷m÷kite, kad rodykl÷s reikðm÷ :*p
 	system("pause");
 

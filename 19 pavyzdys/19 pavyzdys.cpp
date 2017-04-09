@@ -42,7 +42,7 @@ int main()
 		cout << endl;
 	}
 	// reiksmiu spausdinimas 
-	cout << endl << endl << "Grup÷je ğie studentai: " << endl << endl;
+	cout << endl << endl << "Grupeje ğie studentai: " << endl << endl;
 
 	for (i = 0; i < n; i++)
 	{

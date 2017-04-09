@@ -11,7 +11,7 @@ void asmuo()
 }
 int main()
 {
-	cout <<"Funkcijos adresas "<< &asmuo << endl;   //spausdina tik adresa
+	cout <<"Funkcijos adresas "<< &asmuo << endl;   //spausdina tik adresà
 
 	system("pause");
 	return 0;

@@ -31,6 +31,7 @@ int main()
 
 	vartotojas2 = vartotojas1;
 	// reiksmiu spausdinimas 
+
 	cout << endl << endl << "VARTOTOJAS2 reiksmes" << endl << endl;
 	cout << vartotojas2.eil_nr << endl;
 	cout << vartotojas2.pavarde << endl;

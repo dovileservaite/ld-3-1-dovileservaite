@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-	int a = 24, *p;    // kintamas a  9 sveikasis sk. 
-					   // kintamasis p 9 rodykl÷ 
+	int a = 24, *p;    // kintamas a  - sveikasis sk. 
+					   // kintamasis p - rodykle 
 	p = &a;            /* rodykle p rodo  i kint. a adresà */
 
 	//  kintamo a reiksme ir adresas 

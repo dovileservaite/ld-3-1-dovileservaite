@@ -13,10 +13,10 @@ int main()
 	p = &a;    /* rodykle p rodo  i kint. a adresà */
 
 	//     Aritmetinis veiksmas 
-	(*p)++;   // padidinama rodykl÷s rodoma reikðm÷ VIENETU
+	(*p)++;   // padidinama rodykles rodoma reikðm÷ VIENETU
 		// ÁSIMINKITE SINTAKSÆ
 	cout << "Rodykles *p rodomas turinys " << *p << endl;
-	// spausdinama kintamojo a reiksm÷  
+	// spausdinama kintamojo a reiksme  
 	// jokiu bûdu ne p* 
 	system("pause");
 	return 0;

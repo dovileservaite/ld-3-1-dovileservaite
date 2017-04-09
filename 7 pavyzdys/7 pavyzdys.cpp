@@ -16,7 +16,7 @@ int main()
 	*p++;    // padidinama rodykl÷s rodomas adresas 
 
 	cout << "Rodykles *p rodomas turinys " << *p << endl;
-	// spausdinama kintamojo a reiksm÷  
+	// spausdinama kintamojo a reiksme  
 	 // jokiu bûdu ne p* 
 	system("pause");
 	return	0;

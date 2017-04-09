@@ -11,7 +11,7 @@ int main()
 	int	sk[5] = { 10, 20, 30, 40, 50 };
 	for (i = 0; i < 5; i++)
 		cout << *(sk + i) << endl;    // masyvo elementà spausdiname naudodami 
-									// rodykl÷s rodomo adreso reikğmæ
+									// rodykles rodomo adreso reikğmæ
 	system("pause");
 	return  0;
 }

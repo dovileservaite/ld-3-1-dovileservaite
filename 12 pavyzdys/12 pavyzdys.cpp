@@ -14,7 +14,7 @@ int main()
 	//     str1++;    // Neteisinga iğraiğka   KODöL
 	//     cout << "str1++ " << str1 << endl;   
 
-	str2++;  // Teisinga iğraiğka, KODöL-  pakinta adresas
+	str2++;  // Teisinga iğraiğka, KODeL-  pakinta adresas
 	cout << "str2++ " << str2 << endl;
 	system("pause");
 	return	0;

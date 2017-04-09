@@ -35,7 +35,7 @@ int main()
 	cout << vartotojas.kursas << endl;
 	cout << vartotojas.vidurkis << endl;
 
-	system("pause");
+	system("pause"); 
 	return 0;
 }
 

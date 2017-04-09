@@ -12,7 +12,7 @@ int main()
 	int	*p;
 	p = sk;
 	for (i = 0; i < 5; i++)
-		cout << *p++ << endl;   // spausdiname rodykl÷s rodomà reikğmæ  
+		cout << *p++ << endl;   // spausdiname rodykles rodomà reikğmæ  
 							   // ir pereiname prie tolimesnio elemento
 	system("pause");
 	return	0;
